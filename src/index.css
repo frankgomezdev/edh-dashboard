@@ -1,0 +1,54 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0b0b10;
+  --surface: #111118;
+  --surface2: #16161f;
+  --border: #1e1e2c;
+  --border2: #252535;
+  --gold: #c9a84c;
+  --gold-dim: #c9a84c30;
+  --text: #ddd5be;
+  --text-dim: #6b6b80;
+  --text-muted: #333340;
+
+  --shane: #f59e0b;
+  --nick: #06b6d4;
+  --chavez: #10b981;
+  --isaac: #8b5cf6;
+  --mark: #ef4444;
+  --franklin: #ec4899;
+  --jonpaul: #f97316;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.fade-up {
+  animation: fadeUp 0.4s ease both;
+}
