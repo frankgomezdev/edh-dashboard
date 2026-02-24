@@ -1,40 +1,40 @@
-DeckID,Commander,PlayerName,Total Games,Wins,Losses,Win %
-D1,"Arixmethes, Slumbering Isle",Shane,1,0,1,0%
-D2,"Toralf, God of Fury",Shane,0,0,0,0%
-D3,"Elesh Norn, Grand Cenobite",Shane,0,0,0,0%
-D4,Norman Osborn,Shane,0,0,0,0%
-D5,"Lynde, Cheerful Tormentor",Shane,0,0,0,0%
-D6,"Zidane, Tantalus Thief",Shane,1,0,1,0%
-D7,"Akiri, Line-Slinger/Silas Renn, Seeker Adept",Shane,0,0,0,0%
-D8,Saruman of Many Colors,Nick,1,0,1,0%
-D9,"Clive, Ifrit's Dominant",Nick,0,0,0,0%
-D10,"Aragorn, King of Gondor",Nick,0,0,0,0%
-D11,"Cloud, Ex-SOLDIER",Nick,0,0,0,0%
-D12,Fire Lord Zuko,Nick,0,0,0,0%
-D13,Ureni of the Unwritten,Nick,0,0,0,0%
-D14,"Teval, the Balanced Scale",Nick,0,0,0,0%
-D15,"Baylen, the Haymaker",Nick,0,0,0,0%
-D16,"Valgavoth, Harrower of Souls",Nick,1,1,0,100%
-D17,"Yuriko, the Tiger's Shadow",Nick,1,1,0,100%
-D18,"Millicent, Restless Revenant",Chavez,1,1,0,100%
-D19,"Ghyrson Starn, Kelermorph",Chavez,1,0,1,0%
-D20,Dr. Eggman,Chavez,1,0,1,0%
-D21,"Krenko, Mob Boss",Chavez,1,0,1,0%
-D22,High Perfect Morcant,Chavez,0,0,0,0%
-D23,"Prosper, Tome-Bound",Chavez,1,0,1,0%
-D24,"Sin, Spira's Punishment",Chavez,0,0,0,0%
-D25,Meren of Clan Nel Toth,Isaac,0,0,0,0%
-D26,Vial Smasher the Fierce/Sakashima of a Thousand Faces,Isaac,1,1,0,100%
-D27,"Noctis, Prince of Lucis",Isaac,0,0,0,0%
-D28,"Tidus, Yuna's Guardian",Isaac,0,0,0,0%
-D29,"Y'shtola, Night's Blessed",Isaac,0,0,0,0%
-D30,"Hearthhull, the Worldseed",Isaac,1,1,0,100%
-D31,"Atraxa, Praetors' Voice",Mark,2,0,2,0%
-D32,"Helga, Skittish Seer",Mark,1,0,1,0%
-D33,"Teval, the Balanced Scale",Mark,1,0,1,0%
-D34,"Miirym, Sentinel Wyrm",Mark,0,0,0,0%
-D35,"Tidus, Yuna's Guardian",Franklin,0,0,0,0%
-D36,"Lightning, Army of One",Franklin,0,0,0,0%
-D39,"Noctis, Heir Apparent",Franklin,3,0,3,0%
-D37,"Eluge, the Shoreless Sea",Jon Paul,0,0,0,0%
-D38,Ms. Bumbleflower,Jon Paul,0,0,0,0%
+﻿DeckID,Commander,PlayerName,Total Games,Wins,Losses,Win %,ArchidektID
+D1,"Arixmethes, Slumbering Isle",Shane,1,0,1,0%,
+D2,"Toralf, God of Fury",Shane,0,0,0,0%,
+D3,"Elesh Norn, Grand Cenobite",Shane,0,0,0,0%,
+D4,Norman Osborn // Green Goblin,Shane,1,1,0,100%,
+D5,"Lynde, Cheerful Tormentor",Shane,1,0,1,0%,
+D6,"Zidane, Tantalus Thief",Shane,1,0,1,0%,
+D7,"Akiri, Line-Slinger/Silas Renn, Seeker Adept",Shane,0,0,0,0%,
+D8,Saruman of Many Colors,Nick,1,0,1,0%,
+D9,"Clive, Ifrit's Dominant",Nick,0,0,0,0%,
+D10,"Aragorn, King of Gondor",Nick,0,0,0,0%,
+D11,"Cloud, Ex-SOLDIER",Nick,0,0,0,0%,
+D12,Fire Lord Zuko,Nick,1,1,0,100%,
+D13,Ureni of the Unwritten,Nick,1,1,0,100%,
+D14,"Teval, the Balanced Scale",Nick,0,0,0,0%,
+D15,"Baylen, the Haymaker",Nick,0,0,0,0%,
+D16,"Valgavoth, Harrower of Souls",Nick,1,1,0,100%,
+D17,"Yuriko, the Tiger's Shadow",Nick,1,1,0,100%,
+D18,"Millicent, Restless Revenant",Chavez,1,1,0,100%,
+D19,"Ghyrson Starn, Kelermorph",Chavez,2,0,2,0%,
+D20,Dr. Eggman,Chavez,1,0,1,0%,
+D21,"Krenko, Mob Boss",Chavez,1,0,1,0%,
+D22,High Perfect Morcant,Chavez,1,0,1,0%,
+D23,"Prosper, Tome-Bound",Chavez,1,0,1,0%,
+D24,"Sin, Spira's Punishment",Chavez,1,0,1,0%,
+D25,Meren of Clan Nel Toth,Isaac,1,0,1,0%,
+D26,Vial Smasher the Fierce/Sakashima of a Thousand Faces,Isaac,1,1,0,100%,
+D27,"Noctis, Prince of Lucis",Isaac,0,0,0,0%,
+D28,"Tidus, Yuna's Guardian",Isaac,0,0,0,0%,
+D29,"Y'shtola, Night's Blessed",Isaac,0,0,0,0%,
+D30,"Hearthhull, the Worldseed",Isaac,2,1,1,50%,
+D31,"Atraxa, Praetors' Voice",Mark,3,0,3,0%,
+D32,"Helga, Skittish Seer",Mark,2,0,2,0%,
+D33,"Teval, the Balanced Scale",Mark,2,0,2,0%,
+D34,"Miirym, Sentinel Wyrm",Mark,0,0,0,0%,
+D35,"Tidus, Yuna's Guardian",Franklin,0,0,0,0%,
+D36,"Lightning, Army of One",Franklin,0,0,0,0%,
+D39,"Noctis, Heir Apparent",Franklin,4,0,3,0%,
+D37,"Eluge, the Shoreless Sea",Jon Paul,0,0,0,0%,
+D38,Ms. Bumbleflower,Jon Paul,0,0,0,0%,
