@@ -241,7 +241,7 @@ export default function App() {
         if (Object.keys(newImages).length) setCardImages(prev => ({ ...prev, ...newImages }))
         if (Object.keys(newColors).length) setCardColors(prev => ({ ...prev, ...newColors }))
         if (i + BATCH < unique.length) {
-          await new Promise(r => setTimeout(r, 100))
+          await new Promise(r => setTimeout(r, 250))
         }
       }
     }
